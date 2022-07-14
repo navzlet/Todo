@@ -1,2 +1,0 @@
-# Todo
-React+redux+ts
